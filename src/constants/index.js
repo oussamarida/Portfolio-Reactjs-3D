@@ -88,7 +88,7 @@ import {
   
   const experiences = [
     {
-      title: "Student",
+      title: "Im Software engineer",
       School: "EMSI",
       icon: starbucks,
       iconBg: "#383E56",
