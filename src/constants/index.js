@@ -11,6 +11,8 @@ import {
     git,
     figma,
     docker,
+    laravel,
+    flutter,
     starbucks,
     carrent,
     jobit,
@@ -60,6 +62,14 @@ import {
       icon: javascript,
     },
     
+    {
+      name: "flutter",
+      icon: flutter,
+    },
+    {
+      name: "laravel",
+      icon: laravel,
+    },
     {
       name: "React JS",
       icon: reactjs,
