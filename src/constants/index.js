@@ -11,8 +11,6 @@ import {
     git,
     figma,
     docker,
-    laravel,
-    flutter,
     starbucks,
     carrent,
     jobit,
@@ -63,14 +61,6 @@ import {
     },
     
     {
-      name: "flutter",
-      icon: flutter,
-    },
-    {
-      name: "laravel",
-      icon: laravel,
-    },
-    {
       name: "React JS",
       icon: reactjs,
     },
@@ -81,6 +71,14 @@ import {
     {
       name: "Node JS",
       icon: nodejs,
+    },
+    {
+      name: "php laravel",
+      icon: figma,
+    },
+    {
+      name: "flutter",
+      icon: figma,
     },
     {
       name: "git",
@@ -155,6 +153,48 @@ import {
       ],
       image: jobit,
       source_code_link: "https://github.com/oussamarida/location-voiture",
+    },
+          {
+      name: "Invoice",
+      description:
+        "SaaS for invoice and stock management",
+      tags: [
+        {
+          name: "React",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Laravel",
+          color: "green-text-gradient",
+        },
+        {
+          name: "MySql",
+          color: "green-text-gradient",
+        },
+      ],
+      image: ,
+      source_code_link: "",
+    },
+        {
+      name: "Onee",
+      description:
+        "Application for Societe Onee that manage contacts and Request for update",
+      tags: [
+        {
+          name: "Laravel",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Laravel",
+          color: "green-text-gradient",
+        },
+        {
+          name: "MySql",
+          color: "green-text-gradient",
+        },
+      ],
+      image: ,
+      source_code_link: "",
     },
     
   ];
