@@ -28,9 +28,14 @@ import tesla from "./company/tesla.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
+import flutter from "./flutter.png";
+import laravel from "./pngegg.png";
+
 
 
 export {
+  laravel,
+  flutter,
   logo,
   backend,
   creator,
